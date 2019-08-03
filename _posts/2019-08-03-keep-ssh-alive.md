@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2015-11-14 16:52:07
-categories: jekyll update
-tags: jekyll update
+title:  "如何设置高效的ssh!"
+date:   {{ page.date | date: '%Y, %b %d' }}
+categories: linux
+tags: ssh
 image: /images/pic02.jpg
 ---
-##SSH连接 
+{{page.title}}
 
 免密登录
 查看本地 ~/.ssh/ 目录是否有 id_rsa.pub，如果没有，在本地创建公钥
