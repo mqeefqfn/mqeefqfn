@@ -2,7 +2,7 @@
 featured-tags: true                     # 是否使用首页标签
 featured-condition-size: 1              # 相同标签数量大于这个数，才会出现在首页
 title: 岁月无声
-email:
+email: 2659246691@qq.com
 description: > # this means to ignore newlines until "baseurl:"
   闲来无来,偶然记录点东西
 baseurl: "" # the subpath of your site, e.g. /blog/

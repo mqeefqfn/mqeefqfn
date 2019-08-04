@@ -4,7 +4,6 @@ title:  "mount命令及/etc/fstab文件详解"
 date:   2019-08-03 12:00:00
 categories: linux
 tags: mount fstab umount
-image: /images/pic03.jpg
 ---
 
 一、手动挂载设备

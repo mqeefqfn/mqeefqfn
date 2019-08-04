@@ -4,7 +4,6 @@ title:  "如何设置高效的ssh!"
 date: 2019-08-03 12:00:00
 categories: linux
 tags: ssh
-image: /images/pic02.jpg
 ---
 {{page.title}}
 

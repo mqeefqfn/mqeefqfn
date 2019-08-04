@@ -4,7 +4,6 @@ title:  "怎么样为git设置多个key"
 date:   2019-08-03 12:00:00
 categories: linux git
 tags: git
-image: /images/pic01.jpg
 ---
 为git设置不同的key其实很简单，git使用ssh作为通信手段，所以只需要设置为不同的host设置不同的key即可
 方法是在 ~/.ssh/config 为不同的host添加不同的key
