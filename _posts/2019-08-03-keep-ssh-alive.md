@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "如何设置高效的ssh!"
-date:   {{ page.date | date: '%Y, %b %d' }}
+date: 2019-08-03 12:00:00
 categories: linux
 tags: ssh
 image: /images/pic02.jpg
@@ -27,7 +27,7 @@ ClientAliveCountMax 3
 别忘记重启ssh服务
 
 配置客户端
-在 /etc/ssh/ssh_config 或者 ~/.ssh/config
+在 /etc/ssh/ssh_config 或者 ~/.ssh/config, 如果没有，就创建，需要注意~/.ssh/config的权限需要设置成600, owner要是你当宿主目录的主人
 添加
 ServerAliveInterval 30
 ServerAliveCountMax 5
