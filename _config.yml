@@ -4,7 +4,7 @@ featured-condition-size: 1              # 相同标签数量大于这个数，�
 title: 岁月无声
 email: 2659246691@qq.com
 description: > # this means to ignore newlines until "baseurl:"
-  闲来无来,偶然记录点东西
+  闲来无事,偶然记录点东西
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://mqeefqfn.github.io" # the base hostname & protocol for your site
 # twitter_username: unknown
